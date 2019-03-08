@@ -1,10 +1,10 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-#eval "$(cntlm)" # this runs cntlm automatically, but a lot of people also manually run 'cntlm -f' on a separate window to see connections
 export http_proxy="http://localhost:3128"
 export https_proxy="http://localhost:3128"
 export HTTP_PROXY="http://localhost:3128"
 export HTTPS_PROXY="http://localhost:3128"
+
 export HISTSIZE=100000
 export HISTFILESIZE=100000
 
