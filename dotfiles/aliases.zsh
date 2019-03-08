@@ -1,6 +1,9 @@
 # navigation
-alias c='cd /Users/labbec/code'
-alias ob='cd /Users/labbec/code/ob'
+alias c='cd /Users/ebswortb/code'
+alias ob='cd /Users/labbec/code/anz'
+# disable proxy
+alias dp='source ~/local-env/scripts/disable_proxy.sh'
+alias ep='source ~/local-env/scripts/enable_proxy.sh'
 
 # built-in
 alias ll='ls -l'
