@@ -2,4 +2,4 @@
 brew services
 brew update
 
-brew install tree tmux iterm2 terraform ansible kubectl kubernetes-helm nginx git hub 
+brew install tree tmux iterm2 terraform ansible kubectl kubernetes-helm nginx git hub kustomize skaffold golang wget
